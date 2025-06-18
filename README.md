@@ -1,8 +1,35 @@
+# 🧠 Alpha Mind
+
+**A Play-Learning App for Special Kids**  
+Empowering cognitive learning through interactive games, stories, quizzes, and puzzles—designed especially for children with special educational needs.
+
+---
+
+## 📌 Problem Statement
+
+Supporting children with autism, dyslexia, Down syndrome, ADHD, and other learning difficulties calls for specialized teaching resources and empathy. Many educational apps fall short, offering cluttered UIs, limited gamification, and no inclusivity for diverse learners.
+
+---
+
+## ✅ Our Solution
+
+Alpha Mind is a cross-platform app that improves cognitive, creative, and recognition skills using engaging, child-friendly modules:
+
+- **📚 Courses**: Learn basics—colors, numbers, animals  
+- **📖 Stories**: Illustrated with narration  
+- **🎨 Drawing & 🖌️ Scribble Pad**: Foster creativity  
+- **❓ Quizzes & 🧩 Puzzles**: Reinforce memory and logic  
+- **🐾 Animal Facts & Sounds**: Combine audio-visual learning  
+
+Rich animations, clear UI, and thoughtful audio cues create a focused and engaging environment.
+
+---
+
 ## 📸 App Screenshots
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 10px;">
       <img src="SCREENSHOTS/1home_screen.jpg" width="200px"/><br>
       <b>🏠 Home Screen</b>
       <br>
@@ -68,3 +95,19 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 💻 Tech Stack
+
+- **Flutter (Dart)** – Cross-platform app development  
+- **Custom UI/UX** – Child-centric design and animations  
+
+---
+
+## 🙋‍♀️ About the Author
+
+**Khushbu Rani**  
+B.Tech CSE Student @ VIT  
+Machine Learning Enthusiast  
+GitHub: [@khushbu0810](https://github.com/khushbu0810)  
