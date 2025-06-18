@@ -13,6 +13,9 @@
       <b>📘 Intro Page</b>
     </td>
   </tr>
+  <br>
+  <br>
+  <br>
   <tr>
     <td align="center">
       <img src="SCREENSHOTS/3courses.jpg" width="200px"/><br>
