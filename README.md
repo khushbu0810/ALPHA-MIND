@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="screenshots/1home_screen.png" width="45%" />
-  <img src="screenshots/2intro_page.png" width="45%" />
+  <img src="SCREENSHOTS/1home_screen.jpg" width="45%" />
+  <img src="SCREENSHOTS/2intro_page.jpg" width="45%" />
 </p>
 
 <p align="center">
