@@ -12,10 +12,11 @@
       <img src="SCREENSHOTS/2intro_page.jpg" width="200px"/><br>
       <b>📘 Intro Page</b>
     </td>
+    <br>
+    <br>
+    <br>
   </tr>
-  <br>
-  <br>
-  <br>
+  
   <tr>
     <td align="center">
       <img src="SCREENSHOTS/3courses.jpg" width="200px"/><br>
