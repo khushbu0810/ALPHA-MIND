@@ -92,14 +92,12 @@ Rich animations, clear UI, and thoughtful audio cues create a focused and engagi
   <tr> 
     <td align="center">
       <b>🐾 Animal Details after clicking animals</b>
-      <img src="SCREENSHOTS/7puzzle_animal_details.jpg" width="200px"/><br>
+      <img src="SCREENSHOTS/7puzzle_animal_details.jpg" width="300px"/><br>
        <br>
     </td>
-  </tr>
-  <tr>
     <td align="center" colspan="2">
       <b>🔄 Matchup Puzzle</b>
-      <img src="SCREENSHOTS/7puzzle_matchup.jpg" width="200px"/><br>
+      <img src="SCREENSHOTS/7puzzle_matchup.jpg" width="300px"/><br>
     </td>
   </tr>
 </table>
