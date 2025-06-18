@@ -11,17 +11,27 @@ Supporting children with autism, dyslexia, Down syndrome, ADHD, and other learni
 
 ---
 
-## ✅ Our Solution
+## 🚀 Key Features
 
-Alpha Mind is a cross-platform app that improves cognitive, creative, and recognition skills using engaging, child-friendly modules:
-
-- **📚 Courses**: Learn basics—colors, numbers, animals  
-- **📖 Stories**: Illustrated with narration  
-- **🎨 Drawing & 🖌️ Scribble Pad**: Foster creativity  
-- **❓ Quizzes & 🧩 Puzzles**: Reinforce memory and logic  
-- **🐾 Animal Facts & Sounds**: Combine audio-visual learning  
+- 🎮 **Gamified Learning Modules** – Interactive activities to build memory, attention, and logic.
+- 📖 **Visual Storytelling** – Narrated stories with accessible UI and animations.
+- 🎨 **Creative Canvas** – Drawing and scribbling tools to foster expression.
+- ❓ **Cognitive Quizzes & Matching Puzzles** – Reinforce visual recognition and recall.
+- 🦁 **Animal Explorer** – Learn animal facts through rich audio-visual cues.
+- 🧠 **Low Cognitive Load UI/UX** – Built on principles of accessibility and minimal design.
 
 Rich animations, clear UI, and thoughtful audio cues create a focused and engaging environment.
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer          | Technology                                           |
+|----------------|------------------------------------------------------|
+| Frontend       | Flutter (Dart) – Cross-platform development          |
+| State Mgmt     | Provider / Riverpod (for scalability and modularity) |
+| Multimedia     | Custom Audio/Video Assets, Lottie Animations         |
+| Design System  | Material 3 + Custom Animations & Accessibility APIs  |
 
 ---
 
@@ -91,13 +101,6 @@ Rich animations, clear UI, and thoughtful audio cues create a focused and engagi
     </td>
   </tr>
 </table>
-
----
-
-## 💻 Tech Stack
-
-- **Flutter (Dart)** – Cross-platform app development  
-- **Custom UI/UX** – Child-centric design and animations  
 
 ---
 
