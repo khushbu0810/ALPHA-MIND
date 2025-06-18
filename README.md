@@ -1,28 +1,44 @@
 <p align="center">
+  <b>🏠 Home Screen</b><br>
   <img src="SCREENSHOTS/1home_screen.jpg" width="45%" />
+  &nbsp;&nbsp;
+  <b>📘 Intro Page</b><br>
   <img src="SCREENSHOTS/2intro_page.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/3courses.png" width="45%" />
-  <img src="screenshots/image4.png" width="45%" />
+  <b>📚 Courses Page</b><br>
+  <img src="SCREENSHOTS/3courses.jpg.png" width="45%" />
+  &nbsp;&nbsp;
+  <b>📖 Stories Section</b><br>
+  <img src="SCREENSHOTS/4stories" width="45%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/image5.png" width="45%" />
-  <img src="screenshots/image6.png" width="45%" />
+  <b>🎨 Drawing Screen</b><br>
+  <img src="SCREENSHOTS/5draw" width="45%" />
+  &nbsp;&nbsp;
+  <b>🖌️ Scribble Pad</b><br>
+  <img src="SCREENSHOTS/5scribble" width="45%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/image7.png" width="45%" />
-  <img src="screenshots/image8.png" width="45%" />
+  <b>❓ Quiz Screen</b><br>
+  <img src="SCREENSHOTS/6quiz" width="45%" />
+  &nbsp;&nbsp;
+  <b>🧩 Puzzle Start</b><br>
+  <img src="SCREENSHOTS/7puzzle" width="45%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/image9.png" width="45%" />
-  <img src="screenshots/image10.png" width="45%" />
+  <b>🦁 Animals Puzzle</b><br>
+  <img src="SCREENSHOTS/7puzzle_animals" width="45%" />
+  &nbsp;&nbsp;
+  <b>🐾 Animal Details after clicking any animal</b><br>
+  <img src="SCREENSHOTS/7puzzle_animal_details" width="45%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/image11.png" width="45%" />
+  <b>🔄 Matchup Puzzle</b><br>
+  <img src="SCREENSHOTS/7puzzle_matchup" width="45%" />
 </p>
