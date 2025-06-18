@@ -97,7 +97,7 @@ Rich animations, clear UI, and thoughtful audio cues create a focused and engagi
     </td>
     <td align="center" colspan="2">
       <b>🔄 Matchup Puzzle</b>
-      <img src="SCREENSHOTS/7puzzle_matchup.jpg" width="300px"/><br>
+      <img src="SCREENSHOTS/7puzzle_matchup.jpg" width="200px"/><br>
     </td>
   </tr>
 </table>
