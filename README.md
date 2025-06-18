@@ -1,3 +1,25 @@
+<style>
+  .screenshot-table img {
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin: 10px;
+    transition: transform 0.3s ease;
+  }
+  .screenshot-table img:hover {
+    transform: scale(1.05);
+  }
+  .screenshot-table td {
+    padding: 20px;
+    text-align: center;
+    vertical-align: top;
+  }
+  .screenshot-table b {
+    display: block;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #444;
+  }
+</style>
 ## 📸 App Screenshots
 
 <table>
@@ -42,19 +64,19 @@
     </td>
   </tr>
   <tr>
+    <td align="center" colspan="2">
+      <img src="SCREENSHOTS/7puzzle_matchup.jpg" width="200px"/><br>
+      <b>🔄 Matchup Puzzle</b>
+    </td>
     <td align="center">
       <img src="SCREENSHOTS/7puzzle_animals.jpg" width="200px"/><br>
       <b>🦁 Animals Puzzle</b>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="SCREENSHOTS/7puzzle_animal_details.jpg" width="200px"/><br>
       <b>🐾 Animal Details after clicking any animal</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="SCREENSHOTS/7puzzle_matchup.jpg" width="200px"/><br>
-      <b>🔄 Matchup Puzzle</b>
     </td>
   </tr>
 </table>
