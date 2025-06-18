@@ -41,6 +41,8 @@ Rich animations, clear UI, and thoughtful audio cues create a focused and engagi
   <tr>
     <td align="center">
       <b>🏠 Home Screen</b>
+    </td>
+    <td>
       <img src="SCREENSHOTS/1home_screen.jpg" width="200px"/><br>
       <br>
     </td>
