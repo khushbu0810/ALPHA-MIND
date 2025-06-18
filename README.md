@@ -1,5 +1,28 @@
-### 🧠 Story Screen
-![Story](SCREENSHOTS/1home_screen.jpg?raw=true)
+<p align="center">
+  <img src="screenshots/1home_screen.png" width="45%" />
+  <img src="screenshots/2intro_page.png" width="45%" />
+</p>
 
-### 🎨 Drawing Activity
-![Drawing](https://github.com/khushbu0810/Alpha-Mind/blob/master/screenshots/drawing.png?raw=true)
+<p align="center">
+  <img src="screenshots/3courses.png" width="45%" />
+  <img src="screenshots/image4.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/image5.png" width="45%" />
+  <img src="screenshots/image6.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/image7.png" width="45%" />
+  <img src="screenshots/image8.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/image9.png" width="45%" />
+  <img src="screenshots/image10.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/image11.png" width="45%" />
+</p>
